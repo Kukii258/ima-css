@@ -1,0 +1,50 @@
+
+.jedan{
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+kurac{
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+button{
+    background-color: rgb(255, 166, 0);
+    font-size: 18px;
+}
+.dva{
+    background-color: hsl(0, 100%, 75%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#jedan{
+    color: blue;
+    font-size: 36px;
+    background-color: white;
+}
+.tri{
+    font-size: 24px;
+}
+.b1,b2{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.b1{
+    background-color: black;
+    color: white;
+}
+.b2{
+    background-color: yellow;
+}
+.slika{
+    width: 300px;
+    height: auto;
+}
+.deda .otac{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
